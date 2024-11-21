@@ -1,0 +1,30 @@
+{
+  "name": "a2s_sqe",
+  "version": "1.0.0",
+  "description": "Source Queries for Node.JS",
+  "main": "./src/a2s_sqe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sapsanDev/a2s_sqe.git"
+  },
+  "keywords": [
+    "A2S_INFO",
+    "Source Query",
+    "Steam",
+    "Server monitor"
+  ],
+  "author": "sapsanDev",
+  "license": "ISC",
+  "types": "./src/a2s_sqe.d.ts",
+  "bugs": {
+    "url": "https://github.com/sapsanDev/a2s_sqe/issues"
+  },
+  "homepage": "https://github.com/sapsanDev/a2s_sqe#readme",
+  "dependencies": {
+    "bufferpack": "^0.0.6",
+    "int24": "^0.0.1"
+  }
+}
