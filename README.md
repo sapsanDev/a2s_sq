@@ -1,18 +1,18 @@
 # a2s_sqe
 
-[![npm version](https://badge.fury.io/js/a2s_sqe.svg)](https://badge.fury.io/js/na2s_sqe)
+[![npm version](https://badge.fury.io/js/a2s_sq.svg)](https://badge.fury.io/js/a2s_sq)
 
 Source Queries for Node.JS, which supports promises
 More info https://developer.valvesoftware.com/wiki/Server_queries
 
 ## Usage
 
-Install the package by typing `npm i a2s_sqe` in your project folder.
+Install the package by typing `npm i a2s_sq` in your project folder.
 
 ### Setup
 
 ```javascript
-const A2S = require("a2s_sqe");
+const A2S = require("a2s_sq");
 
 const SQE = new A2S();
 ```
