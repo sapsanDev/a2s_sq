@@ -1,14 +1,14 @@
 {
-  "name": "a2s_sqe",
+  "name": "a2s_sq",
   "version": "1.0.0",
   "description": "Source Queries for Node.JS",
-  "main": "./src/a2s_sqe.js",
+  "main": "./src/a2s_sq.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sapsanDev/a2s_sqe.git"
+    "url": "git+https://github.com/sapsanDev/a2s_sq.git"
   },
   "keywords": [
     "A2S_INFO",
@@ -18,13 +18,9 @@
   ],
   "author": "sapsanDev",
   "license": "ISC",
-  "types": "./src/a2s_sqe.d.ts",
+  "types": "./src/a2s_sq.d.ts",
   "bugs": {
-    "url": "https://github.com/sapsanDev/a2s_sqe/issues"
+    "url": "https://github.com/sapsanDev/a2s_sq/issues"
   },
-  "homepage": "https://github.com/sapsanDev/a2s_sqe#readme",
-  "dependencies": {
-    "bufferpack": "^0.0.6",
-    "int24": "^0.0.1"
-  }
+  "homepage": "https://github.com/sapsanDev/a2s_sq#readme"
 }
