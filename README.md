@@ -1,4 +1,4 @@
-# a2s_sqe
+# a2s_sq
 
 [![npm version](https://badge.fury.io/js/a2s_sq.svg)](https://badge.fury.io/js/a2s_sq)
 
